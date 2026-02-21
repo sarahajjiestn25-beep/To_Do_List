@@ -22,3 +22,31 @@ A simple and interactive **To-Do List application** built in Python. This projec
 
 ```bash
 python to_do_list.py
+```
+
+5. Follow the on-screen instructions to **add**, **view**, or **delete** tasks.
+
+---
+
+## 💡 Future Improvements
+
+* 💾 Save tasks to a file to persist data between sessions.
+* ⏱ Add task deadlines and priority levels.
+* 🖼 Create a graphical interface using `Tkinter` or `PyQt`.
+
+---
+
+## 🛠 Technologies & Skills Learned
+
+* 🐍 **Python 3**
+* 🧩 List management & loops
+* 🎛 Conditional logic & input handling
+* ✨ Command-line interface (CLI) design
+
+---
+
+## 📌 Author
+
+![Avatar](https://avatars.githubusercontent.com/u/10001111?s=50)  
+**Sara Hajji** – Student in Software Engineering & Cybersecurity at ESTN  
+GitHub: [sarahajjiestn25-beep](https://github.com/sarahajjiestn25-beep)
